@@ -3,11 +3,9 @@ Contain files used in creating a web based To-Do list using JavaScript
 
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+My software is To-do list app. This to-do list allows users to add, remove, update, and mark tasks as completed. I used HTML for the structure, CSS for the styling and UI. The to-do list is running on a JavaScript engine. Some of the features of the to-do list includes a section displaying list of tasks, with the option to add, remove, and mark tasks as completed. It also has a section that allows input for new tasks through a text based field and a button to "add" the new tasks to the list of tasks. Each task also have the ability to deleted at the disposal of the user.
 
-{Provide a description of the software that you wrote to demonstrate the JavaScript language.}
-
-{Describe your purpose for writing this software.}
+The aim of every software is to solve a problem. Because i can be very unorganized and often spend much time on tasks requiring less time, I created the To-do list app to help me organize my tasks and give me an idea of what i need to do and to also sort them according to how important they are.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -15,21 +13,18 @@ Contain files used in creating a web based To-Do list using JavaScript
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+To develop this software, i used VS Code as my IDE, and employed the use of some VS code extensions to maximize my productivity.
 
-{Describe the programming language that you used and any libraries.}
+I used JavaScript majorly to complete this software. Because it is web-based app, i made use of HTMl for structure and CSS for styling, as well as for DOM structure. I did not make use of any library or framework whilst working on this app.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [W3 Schools](https://www.w3schools.com/js/)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/javascript/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+- I plan to add a time-based deadline to each of tasks that cancels a time when i am not able to complete it in the alloted time.
 
-- Item 1
-- Item 2
-- Item 3
+- Subsequently, I plan to include a weather map, location, and time zone that would sync with the time-based deadlines that i would be adding to the app.
+
