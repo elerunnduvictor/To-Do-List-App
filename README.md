@@ -7,9 +7,7 @@ My software is To-do list app. This to-do list allows users to add, remove, upda
 
 The aim of every software is to solve a problem. Because i can be very unorganized and often spend much time on tasks requiring less time, I created the To-do list app to help me organize my tasks and give me an idea of what i need to do and to also sort them according to how important they are.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Software Demo Video: https://youtu.be/vJxoD_ZXfpc?feature=shared
 
 # Development Environment
 
